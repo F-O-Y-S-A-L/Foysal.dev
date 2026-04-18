@@ -12,28 +12,28 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 ;
 const metadata = {
-    title: "Nova.Dev - Fullstack Portfolio",
+    title: "Foysal-three - Fullstack Portfolio",
     description: "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
     icons: {
-        icon: "/title.jpeg"
+        icon: "/coding-web-development-svgrepo-com.svg"
     },
     openGraph: {
-        title: "Nova-Dev - Fullstack Portfolio",
+        title: "Foysal-three - Fullstack Portfolio",
         description: "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
-        url: "https://nova-dev-brown.vercel.app",
-        siteName: "Nova-Dev-Brown",
+        url: "https://Foysal-three.vercel.app",
+        siteName: "Foysal-three",
         images: [
             {
                 url: "/title.jpeg",
                 width: 1200,
                 height: 630,
-                alt: "Nova.dev Title Image"
+                alt: "Foysal-three Title Image"
             }
         ]
     },
     twitter: {
         card: "summary_large_image",
-        title: "Nova-Dev-brown - Fullstack Portfolio",
+        title: "Foysal-three - Fullstack Portfolio",
         description: "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
         images: [
             "/title.jpg"
