@@ -30,7 +30,7 @@ export const metadata: Metadata = {
       "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
     images: ["/title.jpg"],
   },
-};
+}
 
 export default function RootLayout({
   children,
