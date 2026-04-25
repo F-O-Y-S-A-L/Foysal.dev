@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Foysal-devs - Fullstack Portfolio",
+  title: "Foysal-devs",
   description:
     "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
   icons: {
     icon: "/coding-web-development-svgrepo-com.svg",
   },
   openGraph: {
-    title: "Foysal-devs - Fullstack Portfolio",
+    title: "Foysal-devs",
     description:
       "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
     url: "https://foysal-devs.vercel.app/",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Foysal-devs - Fullstack Portfolio",
+    title: "Foysal-devs",
     description:
       "A high-performance technical portfolio for a Fullstack Web Developer, featuring modern design and interactive showcases.",
     images: ["/title.jpg"],
