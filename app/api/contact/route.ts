@@ -32,11 +32,6 @@ export async function POST(req: Request) {
       html: `
       <div style="font-family: 'Inter', sans-serif; max-width: 720px; margin: auto; padding: 48px; border-radius: 20px; background: #0d0d0d; color: #ffffff; box-shadow: 0 20px 50px rgba(0,0,0,0.6);">
 
-  <!-- Tag -->
-  <div style="background: rgba(255,255,255,0.08); color: #ffffff; padding: 10px 18px; border-radius: 999px; display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: 0.15em; margin-bottom: 24px;">
-    NEW MESSAGE
-  </div>
-
   <!-- Heading -->
   <h1 style="font-size: 36px; font-weight: 800; letter-spacing: -0.03em; margin-bottom: 10px;">
     Message <span style="color: #00ffd1;">Received</span>
