@@ -22,13 +22,13 @@ const Projects = () => {
       siteLink: "https://luminablogs.vercel.app/",
     },
     {
-      title: "Quotespace",
-      category: "Quotes Archive",
+      title: "Org-Node",
+      category: "Organization App",
       tagline:
-        "A stylish community platform to share and like inspirational quotes.",
+        "A modern platform to manage teams, tasks, and collaboration seamlessly.",
       image:
-        "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop",
-      siteLink: "https://quotespace-sigma.vercel.app/",
+        "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop",
+      siteLink: "https://org-node.vercel.app",
     },
   ];
   return (
